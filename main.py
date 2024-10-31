@@ -1,2 +1,4 @@
 print('hello world')
-print('hell ')
+print('hell fff')
+
+print(" new line")
